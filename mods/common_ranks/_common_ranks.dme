@@ -1,0 +1,8 @@
+#ifndef MODPACK_COMMON_RANKS
+#define MODPACK_COMMON_RANKS
+// BEGIN INCLUDE
+#include "common_ranks.dm"
+#include "datum\military_ranks.dm"
+#include "datum\misc_ranks.dm"
+// END_INCLUDE
+#endif
